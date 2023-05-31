@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\bin\Debug\net6.0\DelegateDelights.exe
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\bin\Debug\net6.0\DelegateDelights.deps.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\bin\Debug\net6.0\DelegateDelights.runtimeconfig.json
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\bin\Debug\net6.0\DelegateDelights.dll
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\bin\Debug\net6.0\DelegateDelights.pdb
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.AssemblyInfo.cs
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.dll
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\refint\DelegateDelights.dll
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.pdb
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\DelegateDelights.genruntimeconfig.cache
+C:\Users\Admin\Documents\Vee\Projects\ASP.NET Core\DelegateDelights\DelegateDelights\obj\Debug\net6.0\ref\DelegateDelights.dll
